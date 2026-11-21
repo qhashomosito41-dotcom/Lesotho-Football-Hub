@@ -1,0 +1,5 @@
+export { MatchInfo } from './MatchInfo'
+export { MatchLineups } from './MatchLineups'
+export { MatchScoreboard } from './MatchScoreboard'
+export { MatchStats } from './MatchStats'
+export { MatchTimeline } from './MatchTimeline'
